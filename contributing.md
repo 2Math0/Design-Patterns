@@ -8,6 +8,17 @@
   2) The UML paradigm of the pattern.
   3) Tweaks of the pattern.
   4) Other languages implementation if possible.
+- A PR should have a tasked description of the 2 must-to-do tasks `[the pattern-project]` and `[the github-md-file]` with the following formula:
+```
+Title: 
+Feature-added: little description
+
+Description: 
+This PR adds/changes/modifies/deletes the following: 
+- [x] Foo-bar Pattern.
+- [ ] Foo-bar descriptive docs (FOOBAR.md).
+```
+This ensures that other folks know the progress of your PR and what are your plans in a real-time fashion !
 
 ## Steps to contribute (Create a PR): 
 1) Fork this repository.
