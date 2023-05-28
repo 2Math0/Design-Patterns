@@ -1,3 +1,5 @@
+package com.scrappers.designs;
+
 // One-of-a-Kind Objects
 // which there is only one instance.
 
